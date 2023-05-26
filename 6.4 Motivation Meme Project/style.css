@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+img{
+    display:block;
+    margin: 0 auto;
+    width: 700px;
+    border: 5px solid white;
+}
+h1{
+    font-family: 'Caveat', cursive;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+}
+#Quote{
+    color: white;
+    text-align: center;
+}
